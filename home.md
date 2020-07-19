@@ -1,8 +1,8 @@
 ---
 title: Home
-description: welcome to Gwusbdhdu Wiki
+description: welcome to BC Wiki
 published: true
-date: 2020-07-19T19:58:48.641Z
+date: 2020-07-19T20:03:51.536Z
 tags: 
 editor: markdown
 ---
