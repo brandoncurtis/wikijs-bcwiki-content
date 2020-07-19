@@ -2,12 +2,17 @@
 title: Home
 description: welcome to Gwusbdhdu Wiki
 published: true
-date: 2020-03-25T14:49:08.350Z
+date: 2020-07-19T19:58:48.641Z
 tags: 
+editor: markdown
 ---
 
-# Gwusbdhdu Wiki
+# BC Wiki
 
 Welcome to the wiki!
 
-Here is some content!  Will it properly sync with Git?
+Here is some content!
+
+Public GitHub repo of the wiki's contents: 
+- https://github.com/brandoncurtis/wikijs-bcwiki-content/
+- PRs accepted!
