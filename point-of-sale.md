@@ -2,7 +2,7 @@
 title: Point-of-Sale Systems
 description: restaurant and online point-of-sale vendors, systems, and integrations
 published: true
-date: 2022-08-19T21:11:56.203Z
+date: 2022-08-19T22:52:34.127Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T20:48:28.049Z
