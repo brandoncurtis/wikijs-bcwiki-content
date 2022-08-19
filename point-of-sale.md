@@ -2,7 +2,7 @@
 title: Point-of-Sale Systems
 description: restaurant and online point-of-sale vendors, systems, and integrations
 published: true
-date: 2022-08-19T20:48:28.049Z
+date: 2022-08-19T21:11:56.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-19T20:48:28.049Z
@@ -33,16 +33,7 @@ Are there service providers that do this job?
 - https://www.tryotter.com/integrations/clover
 - integrates with Clover PoS
 - https://www.tryotter.com/pricing
-
-## Bento
-https://www.getbento.com
-Easy Menu Maker
-https://getbento.com/features/clover-dining/
-Direct integration to BentoBox: Connect to your BentoBox online ordering for a single-source of truth across menus, inventory, and ordering data
-
-## Chowly
-https://www.chowlyinc.com
-Get Organized. Get Chowly.
+- https://www.tryotter.com/compare/deliverect
 
 ## Deliverect
 https://www.deliverect.com/
@@ -55,6 +46,24 @@ Orders made on a variety of delivery platforms are then aggregated directly to y
 You get a complete overview of all your orders on one device.
 Thanks to our two-way integrations, you can also sync online menus directly from your Clover POS.
 This integration requires a subscription to Clover and Deliverect.
+- https://www.deliverect.com/en-us/trial
+
+
+## MenuNet
+- https://www.trabongroup.com/menu-management/menunet/
+As a database-driven menu management system, MenuNet serves as a single source for menu item data. The menu management software allows managers access to a website containing their location specific food and drink selections and prices. From there, pricing updates can be made for their next campaign.
+MenuNet | #1 Menu Management Software in 2022
+https://www.trabongroup.com
+
+## Bento
+https://www.getbento.com
+Easy Menu Maker
+https://getbento.com/features/clover-dining/
+Direct integration to BentoBox: Connect to your BentoBox online ordering for a single-source of truth across menus, inventory, and ordering data
+
+## Chowly
+https://www.chowlyinc.com
+Get Organized. Get Chowly.
 
 ## SocialMenu
 https://socialhighrise.com
@@ -75,11 +84,6 @@ Omnivore's Menu Management System simplifies restaurants' use of multiple delive
 Menu Management for Enterprise Restaurants
 https://go.qubeyond.com › single-menu-management-e...
 Converting to a single menu management platform is critical for enterprise restaurants with multiple order channels and brands.
-
-## MenuNet
-As a database-driven menu management system, MenuNet serves as a single source for menu item data. The menu management software allows managers access to a website containing their location specific food and drink selections and prices. From there, pricing updates can be made for their next campaign.
-MenuNet | #1 Menu Management Software in 2022
-https://www.trabongroup.com
 
 ## Ordermark
 Nextbite Adds New Menu Management Tools to Ordermark ...
