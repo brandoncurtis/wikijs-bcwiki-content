@@ -2,7 +2,7 @@
 title: Sustainability
 description: 
 published: true
-date: 2022-09-18T16:54:56.332Z
+date: 2022-09-18T17:46:13.134Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T16:57:50.711Z
@@ -26,7 +26,9 @@ dateCreated: 2022-09-04T16:57:50.711Z
   - https://spectrum.ieee.org/lets-build-a-global-power-grid
   - http://www.geni.org/globalenergy/library/GENI-us/2015/aug/lets-build-a-global-power-grid.pdf
   - http://www.terrawatts.com/
-
+- https://spectrum.ieee.org/chinas-ambitious-plan-to-build-the-worlds-biggest-supergrid
+- https://ieeexplore.ieee.org/document/9011522
+- https://spectrum.ieee.org/packetized-power-grid
 
 
 # Electric Cars
