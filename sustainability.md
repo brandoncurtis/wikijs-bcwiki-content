@@ -2,7 +2,7 @@
 title: Sustainability
 description: 
 published: true
-date: 2022-09-18T02:44:16.916Z
+date: 2022-09-18T16:54:56.332Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T16:57:50.711Z
@@ -22,8 +22,10 @@ dateCreated: 2022-09-04T16:57:50.711Z
   - https://www.bloomberg.com/graphics/2022-clean-energy-power-lines-transwest-wind-maps-private-property/
 - Anschutz’s TransWest project applies to join CAISO in bid to send wind power from Wyoming to California
   - https://www.utilitydive.com/news/anschutz-transwest-express-transmission-CAISO-wyoming-wind/628093/
-- 
-
+- Let’s Build a Global Power Grid
+  - https://spectrum.ieee.org/lets-build-a-global-power-grid
+  - http://www.geni.org/globalenergy/library/GENI-us/2015/aug/lets-build-a-global-power-grid.pdf
+  - http://www.terrawatts.com/
 
 
 
