@@ -2,7 +2,7 @@
 title: Sustainability
 description: 
 published: true
-date: 2022-09-18T17:46:13.134Z
+date: 2022-09-19T03:30:57.083Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T16:57:50.711Z
@@ -10,6 +10,8 @@ dateCreated: 2022-09-04T16:57:50.711Z
 
 # Renewable Energy
 
+- https://www.nrel.gov/solar/market-research-analysis/solar-levelized-cost.html
+- https://www.ohmconnect.com/blog/blog-post/why-did-solar-get-so-cheap-in-the-last-20-years
 
 
 
@@ -47,3 +49,7 @@ dateCreated: 2022-09-04T16:57:50.711Z
 
 
 
+# Energy Storage
+
+- https://about.bnef.com/blog/global-energy-storage-market-set-to-hit-one-terawatt-hour-by-2030/
+- 
